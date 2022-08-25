@@ -1,4 +1,4 @@
-# vue-totorial
+# bt_1
 
 ## Project setup
 ```
